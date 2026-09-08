@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "768282012827",
+    "project_id": "platinum-e7590",
+    "storage_bucket": "platinum-e7590.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:768282012827:android:5ce8abd47223f63c342a3e",
+        "android_client_info": {
+          "package_name": "com.example.platinum_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJhknoCoW2GaeGzCgCVDj7RJXN7BzbZkE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
