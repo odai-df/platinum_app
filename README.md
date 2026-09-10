@@ -160,7 +160,23 @@ flutter run
 
 ## Screenshots
 
-Screenshots of the application will be added here.
+### Onboarding
+![Onboarding](screenshots/onboarding.jpg)
+
+### Home
+![Home](screenshots/home.jpg)
+
+### Search
+![Search](screenshots/search.jpg)
+
+### Unit Details
+![Unit Details](screenshots/unit_details.jpg)
+
+### Chat
+![Chat](screenshots/chat.jpg)
+
+### Profile
+![Profile](screenshots/profile.jpg)
 
 ## Author
 
