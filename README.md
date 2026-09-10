@@ -185,7 +185,6 @@ flutter run
 Flutter Developer
 
 * GitHub: https://github.com/odai-df
-* LinkedIn: Add your LinkedIn profile
 
 ## License
 
