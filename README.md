@@ -161,7 +161,7 @@ flutter run
 ## Screenshots
 
 ### Onboarding
-![Onboarding](screenshots/onboarding.jpg)
+![Onboarding](screenshots/Onboarding.jpg)
 
 ### Home
 ![Home](screenshots/home.jpg)
@@ -170,7 +170,7 @@ flutter run
 ![Search](screenshots/search.jpg)
 
 ### Unit Details
-![Unit Details](screenshots/unit_details.jpg)
+![Unit Details](screenshots/details_units.jpg)
 
 ### Chat
 ![Chat](screenshots/chat.jpg)
